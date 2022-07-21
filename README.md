@@ -1,1 +1,2 @@
-# core-code-from-scratch-readme
+# weekly challenges
+##week 1
