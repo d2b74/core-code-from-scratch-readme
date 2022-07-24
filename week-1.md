@@ -1,37 +1,10 @@
 Ejercicios de la semana 1
 --
 
-**Week challenges (Tuesday)**
+[**Week challenges (Tuesday)**](https://github.com/d2b74/core-code-from-scratch-readme/blob/main/weekChallenges(tuesday).md)
+
+[**Week challenges (Wednesday)**](https://github.com/d2b74/core-code-from-scratch-readme/blob/main/weekChallenges(wednesday).md)
 
 
-- 1_Base on this reading and this video, create an explanation about Interpreted And Compiled Programming Languages.
+[**Week challenges (Thursday)**](https://github.com/d2b74/core-code-from-scratch-readme/blob/main/weekChallenges(thursday).md)
 
-
-
-- 2_Is Java compiled or interpreted, or both?.
-
-
-
-- 3_Pseudocode Currency Converter exercise.
-
-
-
-- 4_Learn about High and Low level languages.
-
-
-**Week challenges (Wednesday)**
-
-- 1_Your date of birth in the matrix? exercise.
-
-
-- 2_MIPS exercise.
-
-**Week challenges (Thursday)**
-
-- 1_Print special numbers exercise.
-
-- 2_Bad Code exercise.
-
-- 3_Bad Code 2 exercise.
-
-- 4_Follow Git Course
