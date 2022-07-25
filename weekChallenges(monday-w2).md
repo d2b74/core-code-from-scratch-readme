@@ -1,0 +1,6 @@
+- 1.Sigue el curso de github, puedes encontrarlo [aquí](https://www.udacity.com/course/version-control-with-git--ud123).
+-  2.Crea una cuenta en Codewars, sigue [estas instrucciones](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week02/_create_account_codewars).
+-  3.Leer sobre: [if...else](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else). 
+-  4.Leer sobre: [for](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for).
+-  5.Leer sobre: [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while).
+-  6.Leer sobre: [functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function).
