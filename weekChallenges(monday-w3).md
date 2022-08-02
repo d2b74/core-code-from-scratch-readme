@@ -1,1 +1,3 @@
-
+- 1.[Who Likes It?](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e00/desc) exercise
+-  2.[Bit Counting](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e01/desc) exercise
+-  3.[Your Order, Please](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e02/desc) exercise
