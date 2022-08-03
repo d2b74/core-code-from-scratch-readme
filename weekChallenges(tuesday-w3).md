@@ -1,1 +1,3 @@
-
+- 1.[Simple Pig Latin](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e03/desc) exercise
+- 2.[Counting Duplicates](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e04/desc) exercise
+- 3.[Decode The Morse Code](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week03/exercises/e05/desc) exercise
