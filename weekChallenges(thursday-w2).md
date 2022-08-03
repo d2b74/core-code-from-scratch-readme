@@ -14,4 +14,15 @@
   }
   ```
 - 4.[Rock Paper Scissors!](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week02/exercises/e11/desc) exercise
+  ```js
+  const rps = (p1, p2) => {
+  if((p1 == 'rock' && p2 == 'scissors') || (p1== 'scissors' && p2=='paper') || (p1=='paper' && p2=='rock')){
+    return "Player 1 won!";
+  }else if(p1 == p2){
+    return "Draw!";
+  }else{
+    return "Player 2 won!";
+  }
+  }
+  ```
 - 5.[Persistent Bugger](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week02/exercises/e12/desc) exercise
