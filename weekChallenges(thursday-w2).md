@@ -26,3 +26,17 @@
   }
   ```
 - 5.[Persistent Bugger](https://github.com/corecodeio/devguide-fundamentals-2022-03/tree/main/src/technologies/2022/week02/exercises/e12/desc) exercise
+  ```js
+  function persistence(num) {
+  let times = 0;
+  let digits = [];
+  while (num >= 10) {
+    digits = num.toString().split('');
+    num = 1;
+    for (let i = 0; i < digits.length; i++) {
+      num *= digits[i];
+    }
+    times++;
+  }
+  return times;
+  }
